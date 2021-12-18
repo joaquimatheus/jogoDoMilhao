@@ -14,3 +14,5 @@ Qual é a cor da laranja?
 1 - Roxo
 2 - Cinza
 3 - Laranja
+
+Resposta = 3;
